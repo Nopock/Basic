@@ -1,0 +1,4 @@
+name: Basic
+version: '${project.version}'
+main: ltd.matrix.basic.Basic
+authors: [ Nopox ]
